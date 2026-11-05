@@ -15,7 +15,7 @@ until this file has a section for its version.
 - **Fixed:** Forgetting your last TV starts looking for TVs right away. [#358](../../pull/358)
 - **Fixed:** With a VPN on, the scan says so instead of "not on Wi-Fi". [#354](../../pull/354)
 - **Fixed:** TVs on wireless debugging reconnect on their own after their port changes. [#353](../../pull/353)
-- **Fixed:** Fire TVs no longer offer Faster animations, which broke their side menu.
+- **Fixed:** Fire TVs no longer offer Faster animations, which broke their side menu. [#359](../../pull/359)
 
 ## 0.15.0 — 2026-11-04
 
